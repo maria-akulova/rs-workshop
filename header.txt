@@ -1,7 +1,10 @@
 add first info
 2nd commit for date format
-add to changes to master after push the frist branch
-change file from master branch
 
+add to changes to master after push the frist branch
+
+add changes again to first branch and will try to rebase
 add changes to first branch
+
+change file from master branch
 
